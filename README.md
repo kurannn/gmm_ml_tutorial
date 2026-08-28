@@ -9,7 +9,7 @@ Welcome to the Ground Motion Modeling tutorial repository. This repository provi
 
 ## Installation
 git clone https://github.com/kurannn/gmm_ml_tutorial.git
-cd gg_ml_tutorial
+cd gmm_ml_tutorial
 
 ## Contacts
 * Fahrettin Kuran - kuraneqe@gmail.com
