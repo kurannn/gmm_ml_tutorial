@@ -8,6 +8,7 @@ Welcome to the Ground Motion Modeling tutorial repository. This repository provi
 - Jupyter Notebook / JupyterLab environment
 
 ## Installation
+```bash
 git clone https://github.com/kurannn/gmm_ml_tutorial.git
 cd gmm_ml_tutorial
 
