@@ -9,8 +9,14 @@ Welcome to the Ground Motion Modeling tutorial repository. This repository provi
 
 ## Installation
 ```bash
+# Clone the repository
 git clone https://github.com/kurannn/gmm_ml_tutorial.git
+
+# Go to repository
 cd gmm_ml_tutorial
+
+# Install the required dependencies
+pip install -r requirements.txt
 ```
 
 ## Contacts
